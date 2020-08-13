@@ -25,9 +25,9 @@ import java.util.*
     switch (operator)
         {
         case '+':answer = num1+ num2;
-         case '+':answer = num1 - num2;                         
-        case '+':answer = num1 * num2;
-        case '+':answer = num1 / num2;
+         case '-':answer = num1 - num2;                         
+        case '*':answer = num1 * num2;
+        case '/':answer = num1 / num2;
         break;
         }
 
